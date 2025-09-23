@@ -1,26 +1,3 @@
-# TODOs
-
-### Update lectures
-
-- Value of vis (update stuff schedule and grading) *
-- D3 demo (start with base charts, include multi-selection)
-- Model checking (add demo video of EVM, add slides on different ways of processing model outputs including marginalization)
-- Disclosure (Krisha will start)
-
-### Record lectures
-
-- Vis design *
-- Perception *
-- D3 introduction (scatterplot and histogram)
-- Deceptive vis
-
-### Update/Create Exercises
-
-- E6: Model checking (Krisha will update) *
-- E8: Alt text (new, base on what's in the slides)
-- E9: Purrsuasion (game)
-
-
 # DATA 23700
 
 This course, the data visualization offering for students in the Data Science major, helps students build core competancies for communicating with data, including generating visualizations programmatically, writing about design and analysis choices, and learning principles and procedures for rigorous work in data science. DATA 23700 introduces students to visualization design, including theoretical frameworks for reasoning about chart construction, perceptual principles, and considerations for use of color, mapping, making data interactive, and conveying uncertainty. DATA 23700 also requires students to engage various other skill sets important in data science such as technical reading and writing, data wrangling, statistical modeling, storytelling, and producing shareable, reproducible analysis notebooks.
@@ -65,11 +42,11 @@ Students seeking help with concepts or coursework should plan to attend office h
 | Day of week | Time of day         | Person hosting | Where   |
 | :---------- | :-----------------  | :------------- | :------ |
 | Monday      |  2:00 PM -  3:30 PM | Krisha         | __      |
-| Tuesday     | 11:00 AM - 12:30 PM | Danni          | __      |
+| Tuesday     | 11:00 AM - 12:30 PM | Danni          | JCL 207 |
 | Tuesday     |  2:00 PM -  3:30 PM | Alex           | DSI 313 |
-| Thursday    | 11:00 AM - 12:30 PM | Danni          | __      |
+| Thursday    | 11:00 AM - 12:30 PM | Danni          | JCL 207 |
 | Thursday    |  2:00 PM -  3:30 PM | Alex           | DSI 313 |
-| Friday      |  3:30 PM -  5:00 PM | Krisha         | [Zoom](__) |
+| Friday      |  3:30 PM -  5:00 PM | Krisha         | [Zoom](https://uchicago.zoom.us/j/92556229083?pwd=1vp5fL97KypbkTGPHt6E08gsLkePCH.1) |
 
 **Office hours begin on September 29 and end on December 5.**
 
@@ -77,9 +54,9 @@ Due to conference travel, **Alex will be unavailable November 2-7**. Because of 
 
 ### Materials, turn-in, and gradebook
 
-All course materials can be found on the course website, GitHub repo, and Canvas. The [course website](__) contains information on policies and schedule, and links to additional resources such as readings. The course [GitHub repo](__) contains intructions and code for all coursework, in-class activities, and demos. [Canvas](__) is where we will post PDFs of lecture slides and (only for sessions where we have a flipped classroom) pre-recorded lectures.
+All course materials can be found on the course website, GitHub repo, and Canvas. The [course website](__) contains information on policies and schedule, and links to additional resources such as readings. The course [GitHub repo](https://github.com/kalealex/data237-au25) contains intructions and code for all coursework, in-class activities, and demos. [Canvas](https://canvas.uchicago.edu/courses/66904) is where we will post PDFs of lecture slides and (only for sessions where we have a flipped classroom) pre-recorded lectures.
 
-Student work will be turned in via [Gradescope](__), where students will be able to view grades and feedback on coursework.
+Student work will be turned in via [Gradescope](https://www.gradescope.com/courses/1143479), where students will be able to view grades and feedback on coursework.
 
 
 ## Schedule
