@@ -1,26 +1,3 @@
-# TODOs
-
-### Update lectures
-
-- Value of vis (update stuff schedule and grading) *
-- D3 demo (start with base charts, include multi-selection)
-- Model checking (add demo video of EVM, add slides on different ways of processing model outputs including marginalization)
-- Disclosure (Krisha will start)
-
-### Record lectures
-
-- Vis design *
-- Perception *
-- D3 introduction (scatterplot and histogram)
-- Deceptive vis
-
-### Update/Create Exercises
-
-- E6: Model checking (Krisha will update) *
-- E8: Alt text (new, base on what's in the slides)
-- E9: Purrsuasion (game)
-
-
 # DATA 23700
 
 This course, the data visualization offering for students in the Data Science major, helps students build core competancies for communicating with data, including generating visualizations programmatically, writing about design and analysis choices, and learning principles and procedures for rigorous work in data science. DATA 23700 introduces students to visualization design, including theoretical frameworks for reasoning about chart construction, perceptual principles, and considerations for use of color, mapping, making data interactive, and conveying uncertainty. DATA 23700 also requires students to engage various other skill sets important in data science such as technical reading and writing, data wrangling, statistical modeling, storytelling, and producing shareable, reproducible analysis notebooks.
@@ -40,7 +17,6 @@ Upon completion of the course, students should be able to:
 4. Avoid creating, recognize, and redesign ill-formed, ineffective, misleading, or deceptive graphics.
 5. Use computational notebooks to write cogent, reproducible analyses.
 6. Produce high-quality written analysis reports.
-
 
 ## 📚 Contents
 
