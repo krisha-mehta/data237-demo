@@ -1,3 +1,4 @@
+# course info
 Deliverables for this course include 5 assignments and 1 final project. Additionally, there will be participation points awarded for 12 exercises and 6 in-class quizes. 
 
 ### Assignments
