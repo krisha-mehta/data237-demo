@@ -1,0 +1,19 @@
+site_name: Data 237 AU25
+site_url: https://kalealex.github.io/data237-au25/
+repo_url: https://github.com/kalealex/data237-au25
+repo_name: GitHub
+
+theme:
+  name: material
+  
+nav:
+  - Home: index.md
+  - Teaching Team: officeHours.md
+  - Schedule: schedule.md
+  - Coursework: coursework.md
+  - Grading: grading.md
+  - Software: software.md  
+  - Policies: policies.md
+  - Readings: readings.md
+  - Tutorials: tutorials.md
+  - Readme: test.md

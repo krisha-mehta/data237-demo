@@ -1,5 +1,5 @@
 # DATA 2x700 Readings
-Here are the reading resoucres for the course separated by the topics we study each week. 
+Here are the reading resources for the course separated by the topics we study each week. 
 
 ### Week 1: Introduction
 #### Value of data visualization

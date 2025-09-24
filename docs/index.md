@@ -17,14 +17,3 @@ Upon completion of the course, students should be able to:
 4. Avoid creating, recognize, and redesign ill-formed, ineffective, misleading, or deceptive graphics.
 5. Use computational notebooks to write cogent, reproducible analyses.
 6. Produce high-quality written analysis reports.
-
-## 📚 Contents
-
-- [Teaching Team](docs/officeHours.md)
-- [Schedule](docs/schedule.md)
-- [Coursework](docs/coursework.md)
-- [Grading](docs/grading.md)
-- [Software Tools](docs/software.md)
-- [Class Policies](docs/policies.md)
-- [Readings](docs/readings.md)
-- [Tutorials](docs/tutorials.md)
