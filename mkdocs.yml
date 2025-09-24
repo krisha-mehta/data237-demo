@@ -8,11 +8,12 @@ theme:
   
 nav:
   - Home: index.md
+  - Teaching Team: officeHours.md
   - Schedule: schedule.md
-  - Policies: policies.md
-  - Software: software.md
-  - Grading: grading.md
-  - Logistics: officeHours.md
   - Coursework: coursework.md
+  - Grading: grading.md
+  - Software: software.md  
+  - Policies: policies.md
   - Readings: readings.md
   - Tutorials: tutorials.md
+  - Readme: test.md
